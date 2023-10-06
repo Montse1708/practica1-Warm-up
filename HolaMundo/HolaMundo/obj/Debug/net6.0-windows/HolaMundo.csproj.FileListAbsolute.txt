@@ -1,0 +1,33 @@
+C:\Users\jessi\Documents\Ciberinfraestructura\HolaMundo\HolaMundo\bin\Debug\net6.0-windows\HolaMundo.exe
+C:\Users\jessi\Documents\Ciberinfraestructura\HolaMundo\HolaMundo\bin\Debug\net6.0-windows\HolaMundo.deps.json
+C:\Users\jessi\Documents\Ciberinfraestructura\HolaMundo\HolaMundo\bin\Debug\net6.0-windows\HolaMundo.runtimeconfig.json
+C:\Users\jessi\Documents\Ciberinfraestructura\HolaMundo\HolaMundo\bin\Debug\net6.0-windows\HolaMundo.dll
+C:\Users\jessi\Documents\Ciberinfraestructura\HolaMundo\HolaMundo\bin\Debug\net6.0-windows\HolaMundo.pdb
+C:\Users\jessi\Documents\Ciberinfraestructura\HolaMundo\HolaMundo\obj\Debug\net6.0-windows\HolaMundo.Form1.resources
+C:\Users\jessi\Documents\Ciberinfraestructura\HolaMundo\HolaMundo\obj\Debug\net6.0-windows\HolaMundo.csproj.GenerateResource.cache
+C:\Users\jessi\Documents\Ciberinfraestructura\HolaMundo\HolaMundo\obj\Debug\net6.0-windows\HolaMundo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jessi\Documents\Ciberinfraestructura\HolaMundo\HolaMundo\obj\Debug\net6.0-windows\HolaMundo.AssemblyInfoInputs.cache
+C:\Users\jessi\Documents\Ciberinfraestructura\HolaMundo\HolaMundo\obj\Debug\net6.0-windows\HolaMundo.AssemblyInfo.cs
+C:\Users\jessi\Documents\Ciberinfraestructura\HolaMundo\HolaMundo\obj\Debug\net6.0-windows\HolaMundo.csproj.CoreCompileInputs.cache
+C:\Users\jessi\Documents\Ciberinfraestructura\HolaMundo\HolaMundo\obj\Debug\net6.0-windows\HolaMundo.dll
+C:\Users\jessi\Documents\Ciberinfraestructura\HolaMundo\HolaMundo\obj\Debug\net6.0-windows\refint\HolaMundo.dll
+C:\Users\jessi\Documents\Ciberinfraestructura\HolaMundo\HolaMundo\obj\Debug\net6.0-windows\HolaMundo.pdb
+C:\Users\jessi\Documents\Ciberinfraestructura\HolaMundo\HolaMundo\obj\Debug\net6.0-windows\HolaMundo.genruntimeconfig.cache
+C:\Users\jessi\Documents\Ciberinfraestructura\HolaMundo\HolaMundo\obj\Debug\net6.0-windows\ref\HolaMundo.dll
+C:\Users\jessi\Documents\Maestría\Primer semestre\Ciberinfraestructura\Tarea 3 Winform\HolaMundo\HolaMundo\bin\Debug\net6.0-windows\HolaMundo.exe
+C:\Users\jessi\Documents\Maestría\Primer semestre\Ciberinfraestructura\Tarea 3 Winform\HolaMundo\HolaMundo\bin\Debug\net6.0-windows\HolaMundo.deps.json
+C:\Users\jessi\Documents\Maestría\Primer semestre\Ciberinfraestructura\Tarea 3 Winform\HolaMundo\HolaMundo\bin\Debug\net6.0-windows\HolaMundo.runtimeconfig.json
+C:\Users\jessi\Documents\Maestría\Primer semestre\Ciberinfraestructura\Tarea 3 Winform\HolaMundo\HolaMundo\bin\Debug\net6.0-windows\HolaMundo.dll
+C:\Users\jessi\Documents\Maestría\Primer semestre\Ciberinfraestructura\Tarea 3 Winform\HolaMundo\HolaMundo\bin\Debug\net6.0-windows\HolaMundo.pdb
+C:\Users\jessi\Documents\Maestría\Primer semestre\Ciberinfraestructura\Tarea 3 Winform\HolaMundo\HolaMundo\obj\Debug\net6.0-windows\HolaMundo.Form1.resources
+C:\Users\jessi\Documents\Maestría\Primer semestre\Ciberinfraestructura\Tarea 3 Winform\HolaMundo\HolaMundo\obj\Debug\net6.0-windows\HolaMundo.csproj.GenerateResource.cache
+C:\Users\jessi\Documents\Maestría\Primer semestre\Ciberinfraestructura\Tarea 3 Winform\HolaMundo\HolaMundo\obj\Debug\net6.0-windows\HolaMundo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jessi\Documents\Maestría\Primer semestre\Ciberinfraestructura\Tarea 3 Winform\HolaMundo\HolaMundo\obj\Debug\net6.0-windows\HolaMundo.AssemblyInfoInputs.cache
+C:\Users\jessi\Documents\Maestría\Primer semestre\Ciberinfraestructura\Tarea 3 Winform\HolaMundo\HolaMundo\obj\Debug\net6.0-windows\HolaMundo.AssemblyInfo.cs
+C:\Users\jessi\Documents\Maestría\Primer semestre\Ciberinfraestructura\Tarea 3 Winform\HolaMundo\HolaMundo\obj\Debug\net6.0-windows\HolaMundo.csproj.CoreCompileInputs.cache
+C:\Users\jessi\Documents\Maestría\Primer semestre\Ciberinfraestructura\Tarea 3 Winform\HolaMundo\HolaMundo\obj\Debug\net6.0-windows\HolaMundo.dll
+C:\Users\jessi\Documents\Maestría\Primer semestre\Ciberinfraestructura\Tarea 3 Winform\HolaMundo\HolaMundo\obj\Debug\net6.0-windows\refint\HolaMundo.dll
+C:\Users\jessi\Documents\Maestría\Primer semestre\Ciberinfraestructura\Tarea 3 Winform\HolaMundo\HolaMundo\obj\Debug\net6.0-windows\HolaMundo.pdb
+C:\Users\jessi\Documents\Maestría\Primer semestre\Ciberinfraestructura\Tarea 3 Winform\HolaMundo\HolaMundo\obj\Debug\net6.0-windows\HolaMundo.genruntimeconfig.cache
+C:\Users\jessi\Documents\Maestría\Primer semestre\Ciberinfraestructura\Tarea 3 Winform\HolaMundo\HolaMundo\obj\Debug\net6.0-windows\ref\HolaMundo.dll
+C:\Users\jessi\Documents\Maestría\Primer semestre\Ciberinfraestructura\Tarea 3 Winform\HolaMundo\HolaMundo\obj\Debug\net6.0-windows\HolaMundo.Properties.Resources.resources
