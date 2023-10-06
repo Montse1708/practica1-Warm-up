@@ -7,7 +7,7 @@ Primera práctica de la materia de CiberInfraestructura, la cual consta en verif
 En caso que el usuario no ingrese niguna contraseña se le indicará que los campos se encuentran vacíos.
 <img src="https://i.ibb.co/QrW8Jvk/espacio-Vacios.png" alt="espacio-Vacios" border="0">
 ## Validar que las contraseñas no son iguales
-Si el usuario ingresa contraseñas diferentes en ambos campos, se le indica que las contraseñas ingresadas "no" son iguales.
+Si el usuario ingresa contraseñas diferentes, se le indica que las contraseñas ingresadas "no" son iguales.
 <img src="https://i.ibb.co/sCMnMcv/no-Iguales.png" alt="no-Iguales" border="0">
 ## Validar que la contraseña no es válida
 Si el usuario ingresa la misma contraseña pero no cumple con la expresión regular, se le indicará que la contraseña "no es válida".
