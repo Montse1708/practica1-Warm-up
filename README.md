@@ -10,7 +10,7 @@ En caso que el usuario no ingrese niguna contraseña se le indicará que los cam
 Si el usuario ingresa contraseñas diferentes, se le indica que las contraseñas ingresadas "no" son iguales.
 <img src="https://i.ibb.co/sCMnMcv/no-Iguales.png" alt="no-Iguales" border="0">
 ## Validar que la contraseña no es válida
-Si el usuario ingresa la misma contraseña pero no cumple con la expresión regular, se le indicará que la contraseña "no es válida".
+Si el usuario ingresa la misma contraseña pero no cumple con la expresión regular, se le indicará que "no es válida".
 <img src="https://i.ibb.co/8Nb42p1/noValida.png" alt="noValida" border="0">
 ## Validar que la contraseña es válida
 Para que la contraseña ingresada sea válida se debe de cumplir con lo siguiente:
